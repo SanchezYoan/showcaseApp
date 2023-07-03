@@ -43,8 +43,8 @@ const Contact = () => {
           <div className="adress">
             <div className="content">
               <h4>adresse</h4>
-              <p>12 rue Laplace</p>
-              <p>64200 Biarritz</p>
+              <p>1 avenue Lepic</p>
+              <p>34070 Montpellier</p>
             </div>
           </div>
           <div className="phone">
@@ -56,7 +56,7 @@ const Contact = () => {
                   className="clipboard"
                   onClick={() => alert("téléphone copié")}
                 >
-                  07 91 95 10 36
+                  07 81 95 10 36
                 </p>
               </CopyToClipboard>
             </div>

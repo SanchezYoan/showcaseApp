@@ -47,7 +47,7 @@ const Home = () => {
                 bottom: 250,
               }}
             >
-              FS AGENCY
+              SANCHEZ YOAN
             </motion.h1>
             <DynamicText />
           </div>
